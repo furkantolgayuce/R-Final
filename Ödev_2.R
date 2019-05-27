@@ -1,7 +1,7 @@
 # ÖDEV 2
 # SQLite kullanarak bir telefon defteri tasarlanacak.
 
-# RSQLite kurulu değişse Aşağıdaki # kaldırın.
+# RSQLite kurulu değilse Aşağıdaki # kaldırın.
 #install.packages("RSQLite")
 
 # Kütüphaneyi içeri alalım.
