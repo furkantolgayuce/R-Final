@@ -83,5 +83,11 @@ dovus.warrior <- function(a, b){
 
 ahmet <- warrior$new("Ahmet", 100, 25, 8, 0.6)
 ali <- warrior$new("Ali", 100, 45, 3, 0.7)
+# ahmet
+# ali
+
+# "gucbirlestir" savaşçıların can, enerji, güç ve şans değerlerini birleştirir.
 ahmet %+% ali
+
+# "dovus" savaşçıların can ve hasar değerlerini birbirinden çıkartır.
 ahmet %-% ali
